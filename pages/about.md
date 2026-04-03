@@ -10,9 +10,9 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
+
+Welcome! This is a sample set of the baseball cards collection at the LoC. 
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
